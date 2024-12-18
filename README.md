@@ -31,5 +31,9 @@
 - **라벨링**: Roboflow  
 - **환경**: Google Colab(cpu)
 
+
 ---
+- **블로깅**
+   - [BLOG_1](https://so-fast.tistory.com/entry/yolo%EC%9A%9C%EB%A1%9C%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%8F%84%EB%A1%9C-%ED%8F%AC%ED%8A%B8%ED%99%80-%EA%B5%AC%EB%B6%84%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)  
+   - [BLOG_2](https://so-fast.tistory.com/entry/yolo%EC%9A%9C%EB%A1%9C%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%8F%84%EB%A1%9C-%ED%8F%AC%ED%8A%B8%ED%99%80-%EA%B5%AC%EB%B6%84%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-2)  
 
