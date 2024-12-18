@@ -7,7 +7,7 @@
 </p>
 
 # **🚧도로 포트홀(Pothole) 감지 프로젝트**
-## 포트홀(도로 파임) 감지를 위해 **YOLOv8** 모델을 활용한 프로젝트입니다. 
+### 포트홀(도로 파임) 감지를 위해 **YOLOv8** 모델을 활용한 프로젝트입니다. 
 </div>
 
 ## 📋 **프로젝트 개요**  
@@ -33,7 +33,7 @@
 
 
 ---
-- **블로깅**
+- **📝개발일지**
    - [BLOG_1](https://so-fast.tistory.com/entry/yolo%EC%9A%9C%EB%A1%9C%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%8F%84%EB%A1%9C-%ED%8F%AC%ED%8A%B8%ED%99%80-%EA%B5%AC%EB%B6%84%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)  
    - [BLOG_2](https://so-fast.tistory.com/entry/yolo%EC%9A%9C%EB%A1%9C%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%8F%84%EB%A1%9C-%ED%8F%AC%ED%8A%B8%ED%99%80-%EA%B5%AC%EB%B6%84%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-2)  
 
