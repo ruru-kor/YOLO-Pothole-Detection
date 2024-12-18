@@ -17,7 +17,12 @@
    - [Kaggle Pothole Detection Dataset](https://www.kaggle.com/datasets/atulyakumar98/pothole-detection-dataset)  
    - 라벨링: **Roboflow**를 활용하여 어노테이션 수행  
 
-
+## ✔ **흐름**
+1. Image Labeling을 새로운 환경에서 진행
+2. yolo8 model 중 n, s, m, l 을 다양하게 사용
+   * 기본 yolo + epoch에따른 성능변화 감지
+3. best.pt를 활용하여 custom image로 결과 확인
+   
 ## ⚙️ **주요 기능**  
 1. **포트홀 감지**  
    - 도로 이미지 또는 비디오에서 포트홀을 실시간으로 감지  
@@ -36,4 +41,5 @@
 - **📝개발일지**
    - [BLOG_1](https://so-fast.tistory.com/entry/yolo%EC%9A%9C%EB%A1%9C%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%8F%84%EB%A1%9C-%ED%8F%AC%ED%8A%B8%ED%99%80-%EA%B5%AC%EB%B6%84%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)  
    - [BLOG_2](https://so-fast.tistory.com/entry/yolo%EC%9A%9C%EB%A1%9C%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%8F%84%EB%A1%9C-%ED%8F%AC%ED%8A%B8%ED%99%80-%EA%B5%AC%EB%B6%84%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-2)  
+
 
